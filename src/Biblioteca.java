@@ -4,10 +4,5 @@ public class Biblioteca {
         Libro libro2 = new Libro("isbn2", "titulo2", 2);
         Revista revista1 = new Revista("revista1", "revista1",10,1);
         Revista revista2 = new Revista("revista2", "revista2",20,2);
-        revista1.prestarevista();
-        revista1.estaprestadorevista();
-        revista1.devuelverevista();
-        revista1.estaprestadorevista();
-        libro1.devuelvelibro();
     }
 }
